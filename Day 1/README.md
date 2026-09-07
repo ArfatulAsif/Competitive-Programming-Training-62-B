@@ -66,3 +66,13 @@ We will use **VJudge** to understand:
 5.  Next day: **Contest**
 
 > **AI Usage = Automatic Disqualification**
+
+
+
+
+
+# Day 1 : Getting Started Contest
+
+```
+https://vjudge.net/contest/847745#rank
+```
