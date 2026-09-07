@@ -57,7 +57,7 @@ We will use **VJudge** to understand:
 
 
 
-# Every Day
+# Our routine in this lab:
 
 1.  I will explain a topic, then I will code it.
 2.  Solve a basic problem with it.
