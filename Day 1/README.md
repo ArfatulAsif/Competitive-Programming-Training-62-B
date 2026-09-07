@@ -51,3 +51,18 @@ We will use **VJudge** to understand:
 -   How submissions are evaluated
 -   How to interpret verdicts
 -   How to participate in a contest
+
+
+
+
+
+
+# Every Day
+
+1.  I will explain a topic, then I will code it.
+2.  Solve a basic problem with it.
+3.  Then you guys will solve 2–3 problems with it.
+4.  Finally, I will ask one question regarding their solution.
+5.  Next day: **Contest**
+
+> **AI Usage = Automatic Disqualification**
